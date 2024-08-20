@@ -1,0 +1,18 @@
+*
+{
+    margin: 10px;
+}
+body{
+    background-color: rgb(9, 71, 4);
+color: rgb(221, 12, 12);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+p{
+    background-color: rgb(156, 228, 122);
+    margin: 5px;
+    padding: 5px;
+}
